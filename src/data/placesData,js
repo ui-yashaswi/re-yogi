@@ -1,0 +1,35 @@
+export const placedata = [
+  {
+    image:"",
+    title: "New York",
+    subtitle: "203 Properties",
+  },
+  {
+    image: "",
+    title: "New York",
+    subtitle: "203 Properties",
+  },
+
+  {
+    image: "",
+    title: "New York",
+    subtitle: "203 Properties",
+  },
+  {
+    image: "",
+    title: "New York",
+    subtitle: "203 Properties",
+  },
+  {
+    image: "",
+    title: "New York",
+    subtitle: "203 Properties",
+  },
+  {
+    image: "",
+    title: "New York",
+    subtitle: "203 Properties",
+  },
+];
+
+export default cards;
